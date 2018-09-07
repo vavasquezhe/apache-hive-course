@@ -1,2 +1,2 @@
-# apache-hive-course
-Curso sobre Apache Hive para Analítica
+# hive-course
+Curso de programación en Hive para Analytics

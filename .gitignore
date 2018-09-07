@@ -1,4 +1,4 @@
-DS_Store
+.DS_Store
 derby.log
 metastore_db/
 spark-warehouse/
