@@ -1,0 +1,23 @@
+ssn,phone,city,maritalstatus,fullname,birthday
+381-60-1914,(04)-9235-6500,Fort Worth (Texas),Single,Chrissy Purdue,1973-11-19
+425-30-1253,(09)-9235-5560,Wichita (Kansas),Divorced,Lakia Chaffins,1984-09-12
+368-46-1313,(08)-9719-7456,Boise (Idaho),Common-Law,Jerry Vansant,1970-12-20
+177-81-1067,(04)-5062-4339,Milwaukee (Wisconsin),Single,Mei Waterman,1979-02-04
+287-54-1341,(09)-7905-7887,San Diego (California),Common-Law,Loreen Moyes,1990-09-11
+408-34-1202,(07)-8288-9130,Seattle (Washington),Common-Law,Allan Clinton,1985-03-31
+238-30-1006,(04)-4286-9511,Baltimore (Maryland),Single,Mona Castillo,1980-07-21
+391-74-1423,(07)-7905-6480,Charlotte (North Carolina),Single,Margaret Jager,1976-06-01
+116-31-1856,(03)-5179-5952,Chula Vista (California),Married,Kimberly Sabo,1972-12-12
+116-23-1579,(07)-9999-8548,El Paso (Texas),Married,Daniel Aguirre,1979-07-01
+238-30-1858,(08)-5179-5388,Baltimore (Maryland),Divorced,Lora Mcewan,1974-11-12
+116-30-1312,(04)-3858-6898,Memphis (Tennessee),Divorced,Antonio Laureano,1987-08-17
+224-31-1237,(04)-6975-5686,Greensboro (North Carolina),Divorced,Cecilia Hinze,1979-04-27
+177-74-1583,(05)-3949-1423,Chicago (Illinois),Single,Eve Peak,1969-03-27
+116-31-1521,(05)-3339-9470,Raleigh (North Carolina),Common-Law,Verona Valentine,1973-06-17
+320-44-1514,(07)-7508-3038,Indianapolis[11] (Indiana),Single,Rigoberto Gagne,1977-01-14
+320-23-1006,(05)-6473-9511,Boise (Idaho),Common-Law,Mandy Mcleod,1984-04-11
+320-25-1771,(07)-9999-2315,Fort Wayne (Indiana),Common-Law,Normand Camacho,1986-11-23
+429-99-1101,(04)-5330-4176,Chicago (Illinois),Married,Elwood Mccallister,1970-05-21
+116-83-1731,(04)-5854-6480,Anaheim (California),Single,Marti Robinson,1984-04-24
+408-30-1020,(04)-3460-5686,Glendale (Arizona),Common-Law,Devora Riley,1979-12-11
+116-25-1417,(07)-3433-5970,Cleveland (Ohio),Single,Israel Rooney,1981-02-18
